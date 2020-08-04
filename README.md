@@ -3,4 +3,4 @@ A clone of Hacker News. Developed as requirement of the JavaScript Bootcamp at S
 
 # what i learned
 * How to build the code divided in separate files;
-* Introduction to Navigo (A simple minimalistic JavaScript router with a fallback for older browsers)
+* Introduction to <a href="https://github.com/krasimir/navigo">Navigo</a> (A simple minimalistic JavaScript router with a fallback for older browsers)
